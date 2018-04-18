@@ -101,8 +101,8 @@ for (var i = 1; i <= 9; i++) {
 
 
 
-document.querySelector('.btn-start').addEventListener('click', init );
-document.querySelector('.btn-start').addEventListener('touchstart', init );
+// document.querySelector('.btn-start').addEventListener('click touchstart', init );
+document.querySelector('.anus').addEventListener('touchstart', init );
 
 
 // document.querySelector('.btn-start').addEventListener('click', function() {
